@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "com.opossalite.Keyswitcher",
+        "Name": "Keyswitcher",
+        "Description": "A button that cycles through xkbcomp keymaps",
+        "Version": "1.0",
+        "Api": "6.0",
+        "License": "GPL-3.0",
+        "Author": "Opossalite",
+        "Category": "Utilities",
+        "Dependencies": [],
+        "Type": "plasmoid",
+        "PlasmaVersion": "6.0"
+    }
+}
+

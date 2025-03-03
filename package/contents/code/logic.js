@@ -9,7 +9,6 @@ var currentIndex = 0;
 function cycleForward() {
     currentIndex = (currentIndex + 1) % states.length;
     updateButton();
-    executeCommand();
 }
 
 function cycleBackward() {
@@ -19,6 +18,7 @@ function cycleBackward() {
 
 function updateButton() {
     plasmoid.text = states[currentIndex].text;
+    executeCommand();
 }
 
 function executeCommand() {

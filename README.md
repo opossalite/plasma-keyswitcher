@@ -1,8 +1,10 @@
 # KDE-Keyswitcher
 
-kpackagetool6 --remove com.example.SwitchButton
+kpackagetool6 --install package
 <br>
-kpackagetool6 --install /path/to/your/widget
+kpackagetool6 --remove com.opossalite.Keyswitcher
+<br>
+~/.local/share/kpackage/generic/com.opossalite.Keyswitcher/
 
 
 
