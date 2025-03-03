@@ -1,0 +1,14 @@
+{
+    "id": "com.example.SwitchButton",
+    "name": "SwitchButton",
+    "description": "A button that cycles through text and executes commands",
+    "version": "1.0",
+    "api": "6.0",
+    "license": "GPL-3.0",
+    "author": "Your Name",
+    "category": "Utilities",
+    "dependencies": [],
+    "type": "plasmoid",
+    "plasmaVersion": "6.0"
+}
+
