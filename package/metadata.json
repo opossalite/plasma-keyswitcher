@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "werbird@gmail.com",
+                "Name": "Opossalite"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Custom keymap switcher widget that uses xkbcomp",
+        "Icon": "input-keyboard",
+        "Id": "com.github.opossalite.keyswitcher",
+        "Name": "Keyswitcher",
+        "Version": "1.0",
+        "Website": "https://github.com/opossalite/plasma-keyswitcher"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "KPackageStructure": "Plasma/Applet"
+}
